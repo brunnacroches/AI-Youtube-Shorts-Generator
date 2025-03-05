@@ -1,0 +1,8 @@
+{
+    "editor.tabCompletion": "on",
+    "workbench.editor.wrapTabs": true,
+    "editor.stickyTabStops": true,
+    "workbench.editor.highlightModifiedTabs": true,
+    "workbench.editor.pinnedTabsOnSeparateRow": true,
+    "workbench.editor.scrollToSwitchTabs": true
+}
